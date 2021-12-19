@@ -319,7 +319,9 @@ a {
 .benefits > p {
   display: flex;
   flex-direction: column;
+  flex-wrap: nowrap;
   align-items: center;
+  text-align: center;
 }
 .benefits-p {
   margin-bottom: 0.7rem;
