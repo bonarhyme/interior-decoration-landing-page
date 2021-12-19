@@ -26,7 +26,7 @@ html {
 
 /* Header */
 .header-wrapper {
-  background-image: url(/Interior-Decoration-Landing-Page/images/hero.jpg);
+  background-image: url(./images/hero.jpg);
   background-position: center;
   background-clip: border-box;
   background-repeat: no-repeat;
